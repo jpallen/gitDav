@@ -1,0 +1,3 @@
+[submodule "support/jsDav"]
+	path = support/jsDav
+	url = git://github.com/mikedeboer/jsDAV.git
